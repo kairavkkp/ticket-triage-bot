@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./venv/bin/python -)",
+      "Bash(ollama pull *)",
+      "Bash(OLLAMA_MODEL=llama3.1 ./venv/bin/python -m src.ollama_drafter)",
+      "Bash(ollama list *)",
+      "Bash(curl -sN localhost:11434/api/pull -d '{\"model\":\"qwen3.5:9b\"}' --max-time 6)",
+      "Bash(OLLAMA_THINK=1 ./venv/bin/python -m src.ollama_drafter)",
+      "Bash(./venv/bin/python -m src.eval)",
+      "Bash(grep -v -E \"Fetching|warn|return Agent|^\\\\s*$\")"
+    ]
+  }
+}

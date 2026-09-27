@@ -1,0 +1,422 @@
+[
+  {
+    "id": "t038",
+    "created_at": "2026-08-01T10:00:00Z",
+    "channel": "sms",
+    "message": "Your product injured my child. I need to speak to someone senior today.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t004",
+    "created_at": "2026-04-17T10:00:00Z",
+    "channel": "sms",
+    "message": "What are your store hours this weekend?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t052",
+    "created_at": "2026-08-17T10:00:00Z",
+    "channel": "chat",
+    "message": "Order #10052 \u2014 there's a problem.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t016",
+    "created_at": "2026-02-28T10:00:00Z",
+    "channel": "email",
+    "message": "Do you ship to Canada? Wanted to check before ordering.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t030",
+    "created_at": "2026-04-05T10:00:00Z",
+    "channel": "sms",
+    "message": "Legal here \u2014 we need to discuss a contract dispute regarding invoice #10030.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t009",
+    "created_at": "2026-04-25T10:00:00Z",
+    "channel": "chat",
+    "message": "Can you confirm your return policy for items bought last week?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t036",
+    "created_at": "2026-09-25T10:00:00Z",
+    "channel": "chat",
+    "message": "I was charged twice for order #10036. This is unacceptable, fix it immediately.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t010",
+    "created_at": "2026-02-13T10:00:00Z",
+    "channel": "email",
+    "message": "Where is my package for order #10010? Placed it 4 days ago.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t031",
+    "created_at": "2026-02-25T10:00:00Z",
+    "channel": "email",
+    "message": "I was told a manager would call me back about order #10031 and nobody did.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t018",
+    "created_at": "2026-03-12T10:00:00Z",
+    "channel": "chat",
+    "message": "I got a discount code, does it apply to sale items?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t019",
+    "created_at": "2026-05-23T10:00:00Z",
+    "channel": "sms",
+    "message": "What are your store hours this weekend?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t039",
+    "created_at": "2026-09-25T10:00:00Z",
+    "channel": "email",
+    "message": "I've emailed 5 times about order #10039 with no response. Absolutely furious.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t023",
+    "created_at": "2026-01-08T10:00:00Z",
+    "channel": "email",
+    "message": "I got a discount code, does it apply to sale items?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t044",
+    "created_at": "2026-08-01T10:00:00Z",
+    "channel": "email",
+    "message": "Legal here \u2014 we need to discuss a contract dispute regarding invoice #10044.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t040",
+    "created_at": "2026-02-28T10:00:00Z",
+    "channel": "sms",
+    "message": "Can someone actually help me for once? Order #10040 has been a nightmare.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t013",
+    "created_at": "2026-02-18T10:00:00Z",
+    "channel": "chat",
+    "message": "This is urgent \u2014 I just need to know if order #10013 has shipped yet.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t005",
+    "created_at": "2026-09-07T10:00:00Z",
+    "channel": "sms",
+    "message": "Hi, just checking on the status of order #10005. Any update?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t035",
+    "created_at": "2026-01-22T10:00:00Z",
+    "channel": "sms",
+    "message": "Can someone actually help me for once? Order #10035 has been a nightmare.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t050",
+    "created_at": "2026-07-07T10:00:00Z",
+    "channel": "sms",
+    "message": "Something seems off with order #10050.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t000",
+    "created_at": "2026-01-24T10:00:00Z",
+    "channel": "chat",
+    "message": "Where is my package for order #10000? Placed it 4 days ago.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t024",
+    "created_at": "2026-07-09T10:00:00Z",
+    "channel": "email",
+    "message": "I got a discount code, does it apply to sale items?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t020",
+    "created_at": "2026-03-18T10:00:00Z",
+    "channel": "sms",
+    "message": "Where is my package for order #10020? Placed it 4 days ago.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t001",
+    "created_at": "2026-04-05T10:00:00Z",
+    "channel": "sms",
+    "message": "What are your store hours this weekend?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t054",
+    "created_at": "2026-01-19T10:00:00Z",
+    "channel": "sms",
+    "message": "Order #10054 \u2014 there's a problem.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t017",
+    "created_at": "2026-07-09T10:00:00Z",
+    "channel": "chat",
+    "message": "Where is my package for order #10017? Placed it 4 days ago.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t049",
+    "created_at": "2026-03-09T10:00:00Z",
+    "channel": "sms",
+    "message": "There's an issue, please advise.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t002",
+    "created_at": "2026-09-03T10:00:00Z",
+    "channel": "sms",
+    "message": "Where is my package for order #10002? Placed it 4 days ago.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t032",
+    "created_at": "2026-03-21T10:00:00Z",
+    "channel": "email",
+    "message": "I was charged twice for order #10032. This is unacceptable, fix it immediately.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t007",
+    "created_at": "2026-05-26T10:00:00Z",
+    "channel": "email",
+    "message": "Can I change the delivery address for order #10007? It hasn't shipped.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t014",
+    "created_at": "2026-06-19T10:00:00Z",
+    "channel": "email",
+    "message": "Can I change the delivery address for order #10014? It hasn't shipped.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t033",
+    "created_at": "2026-02-13T10:00:00Z",
+    "channel": "chat",
+    "message": "The item arrived completely different from what was described, I feel scammed.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t011",
+    "created_at": "2026-06-20T10:00:00Z",
+    "channel": "chat",
+    "message": "I got a discount code, does it apply to sale items?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t059",
+    "created_at": "2026-08-08T10:00:00Z",
+    "channel": "chat",
+    "message": "I have an issue with a recent purchase.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t008",
+    "created_at": "2026-07-11T10:00:00Z",
+    "channel": "chat",
+    "message": "Can you confirm your return policy for items bought last week?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t028",
+    "created_at": "2026-09-09T10:00:00Z",
+    "channel": "sms",
+    "message": "Is there a way to track order #10028 in real time?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t034",
+    "created_at": "2026-08-17T10:00:00Z",
+    "channel": "chat",
+    "message": "I'm considering a chargeback on order #10034 unless this gets resolved today.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t037",
+    "created_at": "2026-02-10T10:00:00Z",
+    "channel": "chat",
+    "message": "Legal here \u2014 we need to discuss a contract dispute regarding invoice #10037.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t057",
+    "created_at": "2026-02-17T10:00:00Z",
+    "channel": "email",
+    "message": "Order #10057 \u2014 there's a problem.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t015",
+    "created_at": "2026-01-22T10:00:00Z",
+    "channel": "email",
+    "message": "Where is my package for order #10015? Placed it 4 days ago.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t048",
+    "created_at": "2026-03-22T10:00:00Z",
+    "channel": "chat",
+    "message": "I have an issue with a recent purchase.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t021",
+    "created_at": "2026-03-15T10:00:00Z",
+    "channel": "chat",
+    "message": "What are your store hours this weekend?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t025",
+    "created_at": "2026-06-07T10:00:00Z",
+    "channel": "sms",
+    "message": "What are your store hours this weekend?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t047",
+    "created_at": "2026-02-25T10:00:00Z",
+    "channel": "sms",
+    "message": "I'm not happy with my last order.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t055",
+    "created_at": "2026-04-01T10:00:00Z",
+    "channel": "email",
+    "message": "The product isn't working the way I expected.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t045",
+    "created_at": "2026-05-08T10:00:00Z",
+    "channel": "email",
+    "message": "Order #10045 \u2014 there's a problem.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t041",
+    "created_at": "2026-09-20T10:00:00Z",
+    "channel": "email",
+    "message": "I've emailed 5 times about order #10041 with no response. Absolutely furious.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t043",
+    "created_at": "2026-09-01T10:00:00Z",
+    "channel": "sms",
+    "message": "Can someone actually help me for once? Order #10043 has been a nightmare.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t003",
+    "created_at": "2026-01-01T10:00:00Z",
+    "channel": "email",
+    "message": "This is urgent \u2014 I just need to know if order #10003 has shipped yet.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t046",
+    "created_at": "2026-02-03T10:00:00Z",
+    "channel": "sms",
+    "message": "The product isn't working the way I expected.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t029",
+    "created_at": "2026-07-19T10:00:00Z",
+    "channel": "chat",
+    "message": "Can I change the delivery address for order #10029? It hasn't shipped.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t058",
+    "created_at": "2026-08-07T10:00:00Z",
+    "channel": "sms",
+    "message": "I need help with my account.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t053",
+    "created_at": "2026-04-08T10:00:00Z",
+    "channel": "email",
+    "message": "Something's wrong with what I got, can you help?",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t022",
+    "created_at": "2026-09-08T10:00:00Z",
+    "channel": "sms",
+    "message": "Do you ship to Canada? Wanted to check before ordering.",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t027",
+    "created_at": "2026-05-05T10:00:00Z",
+    "channel": "email",
+    "message": "Can you confirm your return policy for items bought last week?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t042",
+    "created_at": "2026-06-25T10:00:00Z",
+    "channel": "email",
+    "message": "Your product injured my child. I need to speak to someone senior today.",
+    "gold_action": "escalate"
+  },
+  {
+    "id": "t056",
+    "created_at": "2026-04-03T10:00:00Z",
+    "channel": "email",
+    "message": "My order didn't arrive right.",
+    "gold_action": "clarify"
+  },
+  {
+    "id": "t006",
+    "created_at": "2026-07-08T10:00:00Z",
+    "channel": "chat",
+    "message": "Is there a way to track order #10006 in real time?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t012",
+    "created_at": "2026-08-18T10:00:00Z",
+    "channel": "email",
+    "message": "Hi, just checking on the status of order #10012. Any update?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t026",
+    "created_at": "2026-07-21T10:00:00Z",
+    "channel": "chat",
+    "message": "Quick question, does the warranty cover accidental drops?",
+    "gold_action": "reply"
+  },
+  {
+    "id": "t051",
+    "created_at": "2026-05-13T10:00:00Z",
+    "channel": "sms",
+    "message": "The product isn't working the way I expected.",
+    "gold_action": "clarify"
+  }
+]
